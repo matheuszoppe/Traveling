@@ -1,0 +1,77 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Travel.ing</title>
+
+    <link rel="icon" href="./img/Icon.png"/>
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,600;1,700&display=swap" rel="stylesheet">
+    
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./CSS/Style.css">
+
+    <script type="text/javascript" src="./JS/validacao.js"></script>
+    <script type="text/javascript" src="./JS/buttons.js"></script>
+
+</head>
+<body>
+    
+<main>
+    <img class="logo" src="./img/Logo.svg" alt="">
+    <p>BORA VIAJAR?</p>
+    <hr>
+    <input type="button" onclick="Fundo.open()"  class="Pacotes" value="Pacotes">
+</main>
+<div class="fundo ">
+    <div class="box">
+        <a class="close-button" href="#" onclick="Fundo.close()">-</a>
+        
+        <div class="form">
+            <form name="formu" action="./pacotes.php" method="POST" onsubmit="return teste.date()" >
+                <div class="select">
+                    <p>Origem</p>
+                    <Select name="origem">
+                        <option value="Belo Horizonte">Belo Horizonte</option>
+                        <option value="Rio de Janeiro">Rio de Janeiro</option>
+                        <option value="São Paulo">São Paulo</option>
+                    </Select>
+                </div>
+             
+              <div class="line-2">
+               
+                  <div class="ida">
+                      <p>Ida</p>
+                      <input type="date" name="ida" id="ida" >
+                  </div>
+                  <div class="volta">
+                      <p>Volta</p>
+                      <input type="date" name="volta">
+                  </div>
+                  <div class="viajantes">
+                      <p>Viajantes</p>
+                      <input type="number" min="1" value="1" name="vj">
+                  </div>
+              </div>
+              <button type="submit" onclick="" class="Buscar">Buscar</button>
+               
+               
+                
+
+            </form>
+
+        </div>
+    </div>
+    
+</div>
+
+<footer> <p>imagem: Chapada dos Veadeiros - GO</p></footer>
+    
+
+</body>
+</html>

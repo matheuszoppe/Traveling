@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(220, 223, 226);
+    font-family: 'Montserrat', sans-serif;
+}
+
+header{
+    background: linear-gradient(329.54deg, #184b9e 0%, #103e83 100%);
+    width: 100%;
+   
+    display: grid;
+    align-items: center;
+
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-items: center;
+
+}
+header img{
+    width: 10vw;
+}
+header a{
+    color: white;
+    margin-left: -20vw;
+    text-decoration: none;
+}
+
+main{
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr;
+    padding: 1.5rem;
+}
+.container{
+    background-color: white;
+    grid-column-start: 2;
+    padding: 2rem 6rem 2.5rem 6rem;
+
+    border-radius: 10px;
+}
+.check{
+    text-align: center;
+}
+.check img{
+    width: 10vw;
+    margin-bottom: 1rem;
+}
+h1{
+    text-align: center;
+    margin-bottom: 3rem;
+    opacity: .8;
+}
+.top{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+}
+hr{
+    margin: 1rem 0;
+}
+h2{
+    margin-bottom: 1rem;
+    font-weight: 400;
+    opacity: .9;  
+}
+h3{
+    margin: 1rem 0;
+    font-weight: 500;
+    opacity: .9;
+}
+h4{
+    font-weight: 500;
+    opacity: .9;
+
+}
+p{
+    font-size: .8rem;
+    margin: 3px;
+    opacity: .8;
+}
+.card{
+    padding: 0 1rem;
+}
+.card hr{
+    margin: 1rem -1rem;
+}
+.info{
+    display: flex;
+    justify-content: space-between;
+}
+
+.contato{
+    padding: 0 1rem;
+}
+
+.valores{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    opacity: .8;
+}
+
+
+.valores.total p{
+    font-size: 1.5rem;
+    margin-bottom: .5rem;
+    font-weight: 500;
+}
+.valores.desconto p{
+    margin-bottom: 1rem;
+    opacity: .9;
+    font-weight: 500;
+    margin-left: 1rem;
+}
+
+.valores.final p{
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    font-size: 1.6rem;
+    font-weight: 500;
+    opacity: .7;
+}
+footer{
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+footer a{
+    height: 3rem;
+    width: 10rem;
+    font: 500 1rem 'Montserrat', sans-serif;
+    color: white;
+    background-color: rgb(61, 139, 190); 
+    border-radius: 5px; 
+    border: none;  
+    cursor: pointer;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

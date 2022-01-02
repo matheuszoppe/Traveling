@@ -1,0 +1,11 @@
+[
+    {
+        "cupom":"FirstTravel",
+        "valor_cupom": 10
+    },
+    {
+        "cupom":"20OFF",
+        "valor_cupom": 20
+    }
+
+]

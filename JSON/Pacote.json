@@ -1,0 +1,42 @@
+[
+    {
+        "destino": "Gramado",
+        "img": "./img/Gramado.png",
+        "hospedagem": 99.99,
+        "passagemRJ": 293.90,
+        "passagemSP": 429.54,
+        "passagemBH": 505.12
+    },
+    {
+        "destino": "Arraial do Cabo",
+        "img": "./img/Arraial.png",
+        "hospedagem": 150.23,
+        "passagemRJ": 125.67,
+        "passagemSP": 239.05,
+        "passagemBH": 289.34
+    },
+    {
+        "destino": "Fortaleza",
+        "img": "./img/Fortaleza.png",
+        "hospedagem": 183.25,
+        "passagemRJ": 643.70,
+        "passagemSP": 651.50,
+        "passagemBH": 658.44
+    },
+    {
+        "destino": "Natal",
+        "img": "./img/Natal.png",
+        "hospedagem": 100.10,
+        "passagemRJ": 918.12,
+        "passagemSP": 749.43,
+        "passagemBH": 827.55
+    },
+    {
+        "destino": "Paraty",
+        "img": "./img/Fortaleza.png",
+        "hospedagem": 123.25,
+        "passagemRJ": 673.70,
+        "passagemSP": 551.50,
+        "passagemBH": 558.44
+    }
+]

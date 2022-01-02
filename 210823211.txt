@@ -1,0 +1,29 @@
+COMPROVANTE DE COMPRA 
+
+Pacote: 11 dia(s) em Gramado para 1 pessoa(s).
+Saindo de: Belo Horizonte
+Saida:16/08/2021
+Retorno: 27/08/2021
+
+PASSAGEIROS
+Passageiro 1
+Nome: Matheus
+Sobrenome: Zoppé
+Nascimento: 06/08/2021
+Nacionalidade: Brasileiro
+Nº identidade: 232
+Sexo: 
+
+CONTATO
+
+Endereço: 
+Cidade: asdas
+CEP: 151
+Telefone: 
+Email: matheuszoppe@hotmail.com
+
+VALORES
+
+Valor total: R$ 1.605,01
+Valor descont: R$ 0,00
+Valor fina: R$ 1.605,01

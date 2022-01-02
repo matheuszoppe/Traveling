@@ -1,0 +1,37 @@
+COMPROVANTE DE COMPRA 
+
+Pacote: 6 dia(s) em Gramado para 2 pessoa(s).
+Saindo de: Rio de Janeiro
+Saida:18/08/2021
+Retorno: 24/08/2021
+
+PASSAGEIROS
+Passageiro 1
+Nome: Matheus
+Sobrenome: Zoppé
+Nascimento: 
+Nacionalidade: 
+Nº identidade: 
+Sexo: 
+
+Passageiro 2
+Nome: 
+Sobrenome: 
+Nascimento: 
+Nacionalidade: 
+Nº identidade: 
+Sexo: 
+
+CONTATO
+
+Endereço: 
+Cidade: 
+CEP: 
+Telefone: 
+Email: 
+
+VALORES
+
+Valor total: R$ 1.187,74
+Valor descont: R$ 0,00
+Valor fina: R$ 1.187,74
